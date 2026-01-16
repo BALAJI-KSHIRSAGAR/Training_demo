@@ -3,3 +3,7 @@ Russia
 China
 Korea
 etc
+
+Germany
+Brazil
+France
